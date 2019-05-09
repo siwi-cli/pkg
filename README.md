@@ -1,9 +1,9 @@
-[![Build Status](https://www.travis-ci.org/siwi-cli/siwi-pkg.svg?branch=master)](https://www.travis-ci.org/siwi-cli/siwi-pkg)
-[![npm](https://img.shields.io/npm/v/siwi-pkg.svg)](https://www.npmjs.com/package/siwi-pkg)
-[![npm](https://img.shields.io/npm/dt/siwi-pkg.svg)](https://www.npmjs.com/package/siwi-pkg)
-[![Github file size](https://img.shields.io/github/size/siwi-cli/siwi-pkg/lib/index.js.svg)](https://github.com/siwi-cli/siwi-pkg/lib/index.js)
+[![Build Status](https://www.travis-ci.org/siwi-cli/pkg.svg?branch=master)](https://www.travis-ci.org/siwi-cli/pkg)
+[![npm](https://img.shields.io/npm/v/pkg.svg)](https://www.npmjs.com/package/pkg)
+[![npm](https://img.shields.io/npm/dt/pkg.svg)](https://www.npmjs.com/package/pkg)
+[![Github file size](https://img.shields.io/github/size/siwi-cli/pkg/lib/index.js.svg)](https://github.com/siwi-cli/pkg/lib/index.js)
 
-# siwi-pkg
+# pkg
 
 > create npm package by siwi-cli
 
@@ -11,11 +11,11 @@
 
 ### use npm
 
-`npm install siwi-pkg`
+`npm install pkg`
 
 ### use yarn
 
-`yarn add siwi-pkg`
+`yarn add pkg`
 
 ## test
 
