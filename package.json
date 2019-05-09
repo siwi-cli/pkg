@@ -1,0 +1,29 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "create npm package by siwi-cli",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -t 30000 test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwi-cli/pkg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siwi-cli/pkg/issues"
+  },
+  "homepage": "https://github.com/siwi-cli/pkg#readme",
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
