@@ -5,7 +5,7 @@
 
 # siwi-pkg
 
-> file download for nodejs
+> create npm package by siwi-cli
 
 ## install
 
