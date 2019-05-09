@@ -1,7 +1,7 @@
-[![Build Status](https://www.travis-ci.org/siwilizhao/siwi-pkg.svg?branch=master)](https://www.travis-ci.org/siwilizhao/siwi-pkg)
+[![Build Status](https://www.travis-ci.org/siwi-cli/siwi-pkg.svg?branch=master)](https://www.travis-ci.org/siwi-cli/siwi-pkg)
 [![npm](https://img.shields.io/npm/v/siwi-pkg.svg)](https://www.npmjs.com/package/siwi-pkg)
 [![npm](https://img.shields.io/npm/dt/siwi-pkg.svg)](https://www.npmjs.com/package/siwi-pkg)
-[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-pkg/lib/index.js.svg)](https://github.com/siwilizhao/siwi-pkg/lib/index.js)
+[![Github file size](https://img.shields.io/github/size/siwi-cli/siwi-pkg/lib/index.js.svg)](https://github.com/siwi-cli/siwi-pkg/lib/index.js)
 
 # siwi-pkg
 
